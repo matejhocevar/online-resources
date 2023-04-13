@@ -60,6 +60,7 @@
 - Co-parent: [joinmilo.com](https://joinmilo.com)
 - Talk to GitHub repo: [useadrenaline.com](https://useadrenaline.com)
 - Online dating matchmaking: [keeper.ai](https://keeper.ai)
+- Search engine for developers [phind.com](https://www.phind.com)
 
 ### ⛄️ Icons
 
@@ -105,4 +106,4 @@
 - Gratisography: [gratisography.com](https://gratisography.com)
 - Flickr: [flickr.com](https://flickr.com)
 - Depositphotos: [depositphotos.com/free-files](depositphotos.com/free-files)
-)
+  )
